@@ -24,3 +24,5 @@ def kriptografiruy(s, k):
     return s_new
 
 print(kriptografiruy(input(), int(input())))
+
+print('ПРивет')
